@@ -54,5 +54,5 @@ def evaluate_avg(pred_dir='./Shenghui_centralized_model', ground_dir=ground_trut
 
 
 if __name__ == "__main__":
-    generate_groundtruth()
+    # generate_groundtruth()
     evaluate_avg()
